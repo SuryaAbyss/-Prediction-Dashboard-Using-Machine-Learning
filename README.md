@@ -1,8 +1,3 @@
-Creating a README file for your GitHub project is a great way to provide an overview of your project, its features, and how to use it. Below is a detailed README file for your Health Report Analysis Dashboard project. I'll also include placeholders for the images you mentioned.
-
-### README.md
-
-```markdown
 # Health Report Analysis Dashboard
 
 A web-based dashboard for analyzing and visualizing health report data. This dashboard allows healthcare professionals to quickly search for patient records, view detailed information, and gain insights through interactive visualizations.
@@ -73,7 +68,6 @@ For any questions or feedback, please contact [your-email@example.com](mailto:yo
 - [Streamlit](https://streamlit.io/) for providing a powerful and easy-to-use framework for creating web applications.
 - [Plotly](https://plotly.com/) for enabling interactive data visualizations.
 - [Pandas](https://pandas.pydata.org/) for efficient data manipulation and analysis.
-```
 
 ### Adding Images to Your GitHub Repository
 
@@ -95,5 +89,3 @@ To include the images in your GitHub repository, follow these steps:
    git commit -m "Add README and dashboard screenshots"
    git push origin main
    ```
-
-This README file provides a comprehensive overview of your project, its features, and how to use it. The images will visually demonstrate the dashboard's interface, giving users a clear idea of what to expect.
